@@ -11,7 +11,7 @@ class oprators {
         System.out.println(number1 % number2);
     }
 }
-class opratorsDouble {
+class OpratorsDouble {
     public static void main(String[]args){
         double number1 = 12;
         int number2 = 6;

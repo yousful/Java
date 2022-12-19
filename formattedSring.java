@@ -1,4 +1,4 @@
-class formattedSring {
+class FormattedSring {
     public static void main(String[]args){
         String name = "Yusuf"; // %s
         String country = "Nigeria"; // %s

@@ -1,4 +1,4 @@
-class increament {
+class Increament {
     public static void main(String[]args){
 
         int number = 45;

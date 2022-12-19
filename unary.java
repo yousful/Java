@@ -1,4 +1,4 @@
-class unary {
+class Unary {
     public static void main(String[]args){
         // increament and decreament value
 

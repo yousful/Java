@@ -1,4 +1,4 @@
-class logic {
+class Logic {
     public static void main(String[]args){
 
         int age = 30;

@@ -1,4 +1,4 @@
-class doubleNunmber {
+class DoubleNunmber {
     public static void main(String[]args){
         int number1 = 8;
         double number2 = number1;

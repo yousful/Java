@@ -1,4 +1,4 @@
-class stringLength {
+class StringLength {
     public static void main(String[] args) {
         String name = "Learning is fun";
         String fact = "";

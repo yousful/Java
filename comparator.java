@@ -1,4 +1,4 @@
-class comparator {
+class Comparator {
     public static void main(String[]args){
         int number1 = 18;
         int number2 = 20;
