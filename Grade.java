@@ -45,7 +45,7 @@ public class Grade {
         } 
         
         // for testScore from 0 to 39, the grade is F
-        else (testScore >= 0 && testScore <= 39) {
+        else{
             System.out.printf("%d is in F category", testScore);
         }
 

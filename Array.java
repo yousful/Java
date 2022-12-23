@@ -41,6 +41,7 @@ public class Array {
 
     Arrays.sort(letters, startingIndex, endingIndex);
     System.out.println(Arrays.toString(letters));
+    Arrays.fill(letters, startingIndex, endingIndex, 'x');
 
         //searching for item 'x in the array'
     char key = 'x';
